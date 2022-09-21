@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **data analytics**
 
-- 🌱 I’m currently learning **IA**
+- 🌱 I’m currently learning **Data science**
 
 - 👯 I’m looking to collaborate on **code in python**
 
