@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **code in python**
 
-- 🤝 I’m looking for help with **machine learning**
+- 🤝 I’m looking for help with **SQL**
 
 - 📫 How to reach me **barros_allan@proton.me**
 
